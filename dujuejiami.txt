@@ -14,7 +14,7 @@
 
 
 
-狂欢（恐怖片）,https://v.cdnlz3.com/20240622/23965_9a3a9a03/index.m3u8
+狂欢（瑞典恐怖片）,https://v.cdnlz3.com/20240622/23965_9a3a9a03/index.m3u8
 午夜6号房（大陆恐怖片）,https://v.cdnlz12.com/20240622/15380_21134936/index.m3u8
 连接终止2023（瑞典恐怖片）,https://v.cdnlz3.com/20240621/23956_c7a66643/index.m3u8
 荧屏在发光2024（美国恐怖片）,https://v.cdnlz3.com/20240617/23794_f8e3f112/index.m3u8
