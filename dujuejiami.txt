@@ -8,8 +8,8 @@
 狙击精英之纳米危机（大陆动作片）,https://v.cdnlz12.com/20240622/15377_f5de5a6d/index.m3u8
 伤痕累累2024（美国动作片）,https://v.cdnlz12.com/20240622/15373_c9034b8f/index.m3u8
 触发警报（美国动作片）,https://v.cdnlz12.com/20240621/15348_367514f6/index.m3u8
-九龙城寨之围城国语（香港动作片）,https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
-九龙城寨之围城粤语（香港动作片）,https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
+九龙城寨之围城 国语（香港动作片）,https://v.cdnlz3.com/20240621/23931_0923f192/index.m3u8
+九龙城寨之围城 粤语（香港动作片）,https://v.cdnlz12.com/20240621/15286_3ea699af/index.m3u8
 狄仁杰之大幻术师（大陆动作片）,https://v.cdnlz12.com/20240616/15217_7ae3eaf3/index.m3u8
 战心时刻（大陆动作片）,https://v.cdnlz12.com/20240616/15216_66451ef1/index.m3u8
 维和防暴队（大陆动作片）,https://v.cdnlz3.com/20240613/23684_2cfccdbc/index.m3u8
@@ -56,6 +56,58 @@
 预知感能 下（韩国动作片）,https://vip.lzcdn2.com/20220407/2610_8ff9fb5f/index.m3u8
 格杀令（香港动作片）,https://vip.lzcdn2.com/20220408/2657_ab1de36e/index.m3u8
 破毒行动（大陆动作片）,https://v.cdnlz2.com/20240410/29736_e572e28a/index.m3u8
+危险证据(大陆动作片）,https://v.cdnlz2.com/20240410/29735_d7e88df6/index.m3u8
+落花洞新娘(大陆动作片）,https://v.cdnlz2.com/20240409/29671_0b44e8db/index.m3u8
+复仇杀神(美国动作片）,https://v.cdnlz12.com/20240406/13669_6a7d9960/index.m3u8
+幻影战士2024(英国动作片）,https://v.cdnlz12.com/20240406/13668_190f1864/index.m3u8
+三个火枪手：米莱迪(法国动作片）,https://v.cdnlz2.com/20240405/29499_8d88d2b1/index.m3u8
+蝶影2024(大陆动作片）,https://v.cdnlz12.com/20240402/13644_86b7bcea/index.m3u8
+天坑鹰猎2024(大陆动作片）,https://v.cdnlz2.com/20240402/29313_f27ca522/index.m3u8
+猎者之心(其它动作片）,https://v.cdnlz2.com/20240401/29261_bfd2c0ae/index.m3u8
+恐惧的代价2024(法国动作片）,https://v.cdnlz2.com/20240331/29229_cabf04ea/index.m3u8
+战士2024(印度动作片）,https://v.cdnlz12.com/20240327/13505_68c6bce9/index.m3u8
+扫黑行动之黄金(大陆动作片）,https://v.cdnlz12.com/20240326/13458_d6285376/index.m3u8
+新威龙杀阵(美国动作片）,https://v.cdnlz12.com/20240321/13258_0f96066a/index.m3u8
+龙狱天棺(大陆动作片）,https://v.cdnlz12.com/20240321/13255_49b86e1a/index.m3u8
+十三太保之风云再起(大陆动作片）,https://v.cdnlz12.com/20240319/13147_43ca2a7e/index.m3u8
+极速阻击(大陆动作片）,https://v.cdnlz12.com/20240317/13068_63cc8cc0/index.m3u8
+天启四骑士：世界末日(美国动作片）,https://v.cdnlz7.com/20240310/16272_61e5841b/index.m3u8
+牡丹令(大陆动作片）,https://v.cdnlz12.com/20240316/12992_fc27d527/index.m3u8
+风车2023(韩国动作片）,https://v.cdnlz7.com/20240310/16266_96f0f6fa/index.m3u8
+大漠追云剑(大陆动作片）,https://v.cdnlz7.com/20240310/16265_dbcc0e33/index.m3u8
+骆驼客3之弓魂传(大陆动作片）,https://v.cdnlz7.com/20240310/16264_4df85533/index.m3u8
+潜行 国语(大陆动作片）,https://v.cdnlz12.com/20240314/12846_d75489a8/index.m3u8
+潜行 粤语(大陆动作片）,https://v.cdnlz12.com/20240314/12845_fd27a7fd/index.m3u8
+末日战士2024(大陆动作片）,https://v.cdnlz12.com/20240313/12834_ce325fe0/index.m3u8
+周公伏妖(大陆动作片）,https://v.cdnlz12.com/20240313/12832_28e8b06c/index.m3u8
+怪物来袭(大陆动作片）,https://v.cdnlz12.com/20240311/12699_8865f233/index.m3u8
+裂战(大陆动作片）,https://v.cdnlz12.com/20240306/12456_ed25978a/index.m3u8
+少女斗恶龙(美国动作片）,https://v.cdnlz12.com/20240308/12567_d5565b64/index.m3u8
+陌路狂刀(大陆动作片）,https://v.cdnlz12.com/20240308/12526_77ee2ef5/index.m3u8
+极速搏杀(大陆动作片）,https://v.cdnlz12.com/20240306/12457_433fa6c3/index.m3u8
+阿盖尔：神秘特工(英国动作片）,https://v.cdnlz12.com/20240305/12430_13166b93/index.m3u8
+花千骨电影版(大陆动作片）,https://v.cdnlz12.com/20240305/12421_351c4c17/index.m3u8
+九龙笔之神兵觉醒(大陆动作片）,https://v.cdnlz10.com/20220525/1610_517d02ef/index.m3u8
+死亡飞车3：地狱烈焰(美国动作片）,https://v.cdnlz19.com/20240304/19911_4c44c2db/index.m3u8
+死亡飞车 原声(美国动作片）,https://v.cdnlz19.com/20240304/19914_80a919d2/index.m3u8
+死亡飞车 国语(美国动作片）,https://v.cdnlz19.com/20240304/19913_92007689/index.m3u8
+信任2019(美国动作片）,https://v.cdnlz3.com/20220805/10764_c4314dc0/index.m3u8
+英雄与懦夫(其它动作片）,https://v.cdnlz3.com/20220731/10399_b1a38738/index.m3u8
+终极死路(美国动作片）,https://v.cdnlz3.com/20220629/8475_9f57f8b4/index.m3u8
+杀手情(大陆动作片）,https://v1.cdnlz1.com/20220413/1952_6f88ce04/index.m3u8
+苏乞儿(香港动作片）,https://v1.cdnlz1.com/20220409/1373_742cc867/index.m3u8
+重案实录之惊天械劫案(香港动作片）,https://v1.cdnlz1.com/20220408/1250_054f73d6/index.m3u8
+一触即发之除爆(大陆动作片）,https://v1.cdnlz1.com/20220317/190_04b24960/index.m3u8
+反贪风暴 国语(香港动作片）,https://v.cdnlz7.com/20230102/13132_84c60dd9/index.m3u8
+发丘陵冢(大陆动作片）,https://v1.cdnlz1.com/20230814/21811_3d2f53a9/index.m3u8
+龙城谜案(大陆动作片）,https://v.cdnlz12.com/20240302/12283_77747a35/index.m3u8
+除暴安良2024(大陆动作片）,https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8
+周处除三害(台湾动作片）,https://v.cdnlz7.com/20240301/16251_b6c0822a/index.m3u8
+8号警报2(美国动作片）,https://v.cdnlz12.com/20240229/12106_61587ad0/index.m3u8
+罪恶名单(大陆动作片）,https://v.cdnlz12.com/20240228/12089_9ba6581c/index.m3u8
+湘西诡事(大陆动作片）,https://v.cdnlz12.com/20240228/12087_ba85e5a5/index.m3u8
+哨兵2023法国(法国动作片）,https://v1.cdnlz1.com/20240225/24659_9dde3ba3/index.m3u8
+狄仁杰之通天玄案(大陆动作片）,https://v.cdnlz12.com/20240224/11861_9c04f722/index.m3u8
 
 
 
